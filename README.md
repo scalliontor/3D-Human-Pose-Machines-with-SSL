@@ -2,6 +2,8 @@
 
 Convert 2D poses to 3D with real-time interactive adjustment.
 
+**Based on**: [3D Human Pose Machines with Self-supervised Learning](https://arxiv.org/pdf/1901.03798) (arXiv:1901.03798)
+
 ## 🚀 Quick Start
 
 1. **Install dependencies:**
