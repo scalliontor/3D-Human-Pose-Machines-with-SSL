@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv_311/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (if any)
+*.pth
+*.pt
+*.ckpt
+
+# Large result files
+*.mp4
+*.avi
+
+# Temporary files
+*.tmp
+*.temp
+*~
